@@ -32,6 +32,7 @@ Why this matters: Most founders over-prepare instead of shipping early, losing v
 
 link: https://www.linkedin.com/posts/justinwelsh_most-people-wait-for-the-perfect-moment-to-activity-7380931932852813824-IqYy/
 
+## Post 1
 
 **Topic:** Customer awareness levels in marketing
 
