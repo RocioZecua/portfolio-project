@@ -157,3 +157,5 @@ When the product finally exists, you already have:
 * Create assets that compound for years.
 
 > "People don't buy because they finished your guide. They buy because your guide convinced them you know what you're talking about."
+
+Link: https://www.youtube.com/watch?v=1RVflXVtEgc
